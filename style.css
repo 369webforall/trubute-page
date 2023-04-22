@@ -32,3 +32,24 @@ header p {
   font-size: 14px;
   font-weight: 300;
 }
+
+img {
+  width: 100%;
+  object-fit: contain;
+  display: block;
+}
+
+.hero {
+  background-color: white;
+  margin: 10px 15px;
+}
+
+figure {
+  width: 900px;
+  margin: 10px auto;
+}
+
+figcaption {
+  font-size: 14px;
+  margin: 10px 0;
+}
