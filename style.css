@@ -7,8 +7,7 @@
 }
 
 body {
-  border: 5px solid red;
-  margin: 20px 10px;
+  margin: 20px 10px 20px 10px;
   font-family: 'Roboto', sans-serif;
 }
 
@@ -60,7 +59,6 @@ figcaption {
 }
 
 .hero_-text__details {
-  background-color: orange;
   max-width: 700px;
   margin: 0 auto;
 }
@@ -83,4 +81,10 @@ li {
 .name {
   margin-top: 16px;
   font-style: italic;
+}
+
+footer {
+  margin: 30px 0;
+  text-align: center;
+  padding: 50px;
 }
